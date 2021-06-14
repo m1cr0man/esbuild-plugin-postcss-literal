@@ -12,9 +12,9 @@
 		"format": "prettier --write --ignore-unknown '**/*'"
 	},
 	"peerDependencies": {
-		"esbuild": "^0.9.0",
-		"postcss": "^8.0.0",
-		"postcss-load-config": "^3.0.0"
+		"esbuild": ">=0.9.0",
+		"postcss": ">=8.0.0",
+		"postcss-load-config": ">=3.0.0"
 	},
 	"devDependencies": {
 		"esbuild": "0.9.0",
